@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "68df870b-fcb5-4708-9836-bb4870238afc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "ezgif.com-crop (3)": {
+      "ver": "1.0.4",
+      "uuid": "4c42e0e0-2dc5-414f-8930-8017e953cc7d",
+      "rawTextureUuid": "68df870b-fcb5-4708-9836-bb4870238afc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 83.5,
+      "trimX": 7,
+      "trimY": 2,
+      "width": 19,
+      "height": 187,
+      "rawWidth": 27,
+      "rawHeight": 358,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
